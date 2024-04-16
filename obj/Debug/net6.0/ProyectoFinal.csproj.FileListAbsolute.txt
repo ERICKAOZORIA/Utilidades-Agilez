@@ -1,0 +1,38 @@
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.exe
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.deps.json
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.runtimeconfig.json
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.dll
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.pdb
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.dll
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\refint\ProyectoFinal.dll
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.pdb
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Dell User\Desktop\ESTUDIOS\LENGUAJES\C#\ITLA_Projects\AREA-DE-TRABAJO-PROYECTO-FINAL\ProyectoFinal\obj\Debug\net6.0\ref\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.exe
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.deps.json
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\bin\Debug\net6.0\ProyectoFinal.pdb
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\refint\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.pdb
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\ProyectoFinal\obj\Debug\net6.0\ref\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\refint\ProyectoFinal.dll
+C:\Users\User\OneDrive\Desktop\C1 2024 ITLA\ITLA\ProyectoFinal\obj\Debug\net6.0\ProyectoFinal.pdb
